@@ -1,4 +1,4 @@
-package br.com.algoritmos
+package br.com.algo.factorial
 
 import spock.lang.Specification
 
