@@ -4,6 +4,8 @@ package br.com.algo.floodfill;
  * Flood fill, also called seed fill, is an algorithm that determines the area connected to a given node in a
  * multi-dimensional array (Wikipedia).
  *
+ * BigO: O(N) where N is the number of position to change.
+ *
  * @author Cassio Dias
  */
 class FloodFill {
