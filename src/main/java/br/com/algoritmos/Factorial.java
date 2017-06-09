@@ -1,6 +1,6 @@
 package br.com.algoritmos;
 
-public class Fatorial {
+public class Factorial {
 
     public int of(int number) {
         if (number < 0) {
